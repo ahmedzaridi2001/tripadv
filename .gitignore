@@ -25,3 +25,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+
+/src/main/java/com/maghrebvoyage/tripadvisorclone/controller/AuthController.java
